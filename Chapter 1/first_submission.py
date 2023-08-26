@@ -13,6 +13,3 @@
 
 #a
 print("Howdy, World!")
-
-#b
-print("I like to play basketball for fun")
