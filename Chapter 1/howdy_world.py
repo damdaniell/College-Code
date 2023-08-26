@@ -12,4 +12,4 @@
 #
 
 #a
-print("Howdy, World!")
+print("Howdy, World.")
